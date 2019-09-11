@@ -1,0 +1,60 @@
+/** Default styles **/
+a {
+	color: #000000;
+}
+a:hover {
+    color: #86b858;
+}
+
+.svg-inline--fa {
+    vertical-align: middle;
+}
+
+/** Margin padding classes which can be used for **/
+.margin-top {
+	margin-top: 1em;
+}
+.margin-bottom {
+	margin-bottom: 1em;
+}
+
+.margin-topbottom {
+	margin: 1em 0;
+}
+
+.margin-leftright {
+	margin: 0 1em;
+}
+
+.pad-top {
+	padding-top: 1em;
+}
+.pad-bottom {
+	padding-bottom: 1em;
+}
+
+.pad-topbottom {
+	padding: 1em 0;
+}
+
+.pad-leftright {
+	padding: 0 1em;
+}
+
+/** Header Styles **/
+.main-title {
+    color: #fff;
+    font-size: 24px;
+    text-align: left;
+}
+
+.header-info a {
+    color: #fff;
+    font-size: 16px;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+.header-info a:hover {
+	color: #86b858;
+}
